@@ -5,6 +5,7 @@ ________________________________________________________________________________
 
 🚀 Tech Stack
 __________________________________________________________________________________________________
+
 • Languages: HTML/CSS
 • Networking: API, RESTful API's, HTTPS
 • Tools: Git, GitHub, Postman, VS Code
@@ -15,7 +16,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________
 • JavaScript and Python programming language
 • AI coding development
-• I’m looking to collaborate on projects that involve JavaScript, HTML, CSS and video editing projects. 
+• I’m looking to collaborate on projects that involve JavaScript, HTML, CSS, and video editing projects. 
 
 🎮 Fun Facts About Me🧠
 __________________________________________________________________________________________________
