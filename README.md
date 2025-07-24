@@ -3,6 +3,14 @@ I am a passionate Point-of-Sale integration specialist with experience in HTML/C
 __________________________________________________________________________________________________
 
 
+🚀 Tech Stack
+__________________________________________________________________________________________________
+• Languages: HTML/CSS
+• Networking: API, RESTful API's, HTTPS
+• Tools: Git, GitHub, Postman, VS Code
+• AI Tools: Cursor, ChatGPT, WindSurf, GitHub Copilot
+
+
 🌱 Currently Exploring
 __________________________________________________________________________________________________
 • JavaScript and Python programming language
