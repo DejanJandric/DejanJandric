@@ -2,7 +2,7 @@
 👋 Hi there, I'm Dejan Jandric! I am a passionate Point-of-Sale integration specialist with experience in HTML/CSS, and currently expanding my skills in software development. I am proficient at troubleshooting complex issues and understanding user needs.<br><br>💡 Fun Facts About Me:<br><br>🎮 Professional Halo Infinite Player - Top16 for Salt Lake City Major Qualifier 2025. [![ReadTheDocs](https://img.shields.io/badge/Readthedocs-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1m4yhhGC59Wwbws-lentQqLVTakESe-ae/view?usp=sharing) <br><br>🧠 I'm always curious and constantly learning — whether it’s new tech or game mechanics. ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-## 🌐 Socials:
+## 🔗 Links:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dejanjandric) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dejanjandric7@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jandricdejan.vercel.app/)
 
 # 🧰 Languages and Tools
