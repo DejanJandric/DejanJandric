@@ -1,38 +1,18 @@
-👋 Hi there, I'm Dejan Jandric!
-I am a passionate Point-of-Sale integration specialist with experience in HTML/CSS and currently expanding my skills in software development. I am proficient at troubleshooting complex issues and understanding user needs.
-_________________________________________________________________________________________________________
-🚀 Tech Stack
-_________________________________________________________________________________________________________
+# 💫 About Me:
+👋 Hi there, I'm Dejan Jandric! I am a passionate Point-of-Sale integration specialist with experience in HTML/CSS, and currently expanding my skills in software development. I am proficient at troubleshooting complex issues and understanding user needs.<br><br>💡 Fun Facts About Me:<br><br>🎮 Professional Halo Infinite Player - Top16 for Salt Lake City Major Qualifier 2025<br><br>🧠 I'm always curious and constantly learning — whether it’s new tech or game mechanics.
 
-• Languages: HTML, CSS
 
-• POS: AlohaPOS, BrinkPOS, netPOS, Micors POS
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dejanjandric) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dejanjandric7@gmail.com) 
 
-• Networking: HTTP, RESTful APIs, API
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DejanJandric&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DejanJandric&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DejanJandric&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-• Tools: Git, GitHub, Postman, VS Code, Cursor, ChatGPT, GitHub Copilot
-_________________________________________________________________________________________________________
-🌱 Currently Exploring
-_________________________________________________________________________________________________________
+---
+[![](https://visitcount.itsvg.in/api?id=DejanJandric&icon=0&color=0)](https://visitcount.itsvg.in)
 
-• JavaScript and Python programming language
-
-• I’m looking to collaborate on projects that involve JavaScript, HTML, CSS, and video editing projects
-
-• AI Coding development
-_________________________________________________________________________________________________________
-🎮 Fun Facts About Me
-_________________________________________________________________________________________________________
-
-• 🎮 Professional Halo Infinite Player - Top16 for Salt Lake City Major Qualifier 
-
-• 🧠 I'm always curious and constantly learning — whether it’s new tech or game mechanics.
-_________________________________________________________________________________________________________
-💻 My Socials
-_________________________________________________________________________________________________________
-
-• My Website: https://jandricdejan.vercel.app/
-
-• LinkedIn: https://www.linkedin.com/in/dejan-jandric-1500a0b1/
-
-• Business Email: dejanjandric7@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
