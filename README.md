@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Dejan Jandric! I am a passionate Point-of-Sale integration specialist with experience in HTML/CSS, and currently expanding my skills in software development. I am proficient at troubleshooting complex issues and understanding user needs.<br><br>💡 Fun Facts About Me:<br><br>🎮 Professional Halo Infinite Player - Top16 for Salt Lake City Major Qualifier 2025<br><br>🧠 I'm always curious and constantly learning — whether it’s new tech or game mechanics.
+👋 Hi there, I'm Dejan Jandric! I am a passionate Point-of-Sale integration specialist with experience in HTML/CSS, and currently expanding my skills in software development. I am proficient at troubleshooting complex issues and understanding user needs.<br><br>💡 Fun Facts About Me:<br><br>🎮 Professional Halo Infinite Player - Top16 for Salt Lake City Major Qualifier 2025 ![ReadTheDocs](https://img.shields.io/badge/Readthedocs-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white]<br><br>🧠 I'm always curious and constantly learning — whether it’s new tech or game mechanics.
 
 
 ## 🌐 Socials:
