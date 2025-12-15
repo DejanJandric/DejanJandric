@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospaced&pause=1000&color=E3ECF7&center=true&width=435&lines=Application+Support+%26+Software+Support;Learning+Python+%26+SQL)](https://git.io/typing-svg)
 
 # 💫 About Me:
-👋 Hi there, I'm Dejan Jandric! I am a passionate Point-of-Sale integration specialist with experience in HTML/CSS, and I am currently expanding my skills in software development. I am proficient at troubleshooting complex issues and understanding user needs.<br><br>💡 Fun Facts About Me:<br><br>🎮 Semi-Pro Halo Infinite Player - Top16 for Salt Lake City Major Qualifier 2025 and Top20 for Charlotte Major Qualifier 2025. [![ReadTheDocs](https://img.shields.io/badge/Readthedocs-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1m4yhhGC59Wwbws-lentQqLVTakESe-ae/view?usp=sharing) <br><br>🧠 I'm always curious and constantly learning — whether it’s new tech or game mechanics. ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+👋 Hi there, I'm Dejan Jandric! Experienced in both dynamic startup environments, where effective communication, problem-solving, and adaptability are essential, and established corporate settings, spending over three years collaborating with multinational teams and maintaining high-quality support across multiple channels. 
+
+<br><br>🧠 I'm always curious and constantly learning — whether it’s new tech or game mechanics. ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 ## 🔗 Links:
