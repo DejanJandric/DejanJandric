@@ -1,6 +1,6 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospaced&pause=1000&color=E3ECF7&vCenter=true&width=435&lines=Application+Support+%26+Software+Support;Learning+Python+%26+SQL" alt="Typing SVG" /></a></p> 
 
-# 💫 About Me:
+# :large_blue_circle: About me :large_blue_circle:
 👋 Hi there, I'm Dejan Jandric! Experienced in both dynamic startup environments, where effective communication, problem-solving, and adaptability are essential, and established corporate settings, spending over three years collaborating with multinational teams and maintaining high-quality support across multiple channels. 
 
 <br><br>🧠 I'm always curious and constantly learning — whether it’s new tech or game mechanics. ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
