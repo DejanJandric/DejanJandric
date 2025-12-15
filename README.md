@@ -2,7 +2,9 @@
 
 # :raising_hand: About me: 
 Hi there, I'm Dejan! Experienced in both dynamic startup environments, where effective communication, problem-solving, and adaptability are essential, and established corporate settings, spending over three years collaborating with multinational teams and maintaining high-quality support across multiple channels. 
-I'm always curious and constantly learning, whether it’s new tech or game mechanics. If im not dealing with supporting applications, you'll usually find me coding some cool Python scripts.
+
+:thinking: I'm always curious and constantly learning, whether it’s new tech or game mechanics. 
+:hammer_and_pick: When I’m not busy supporting applications, I’m probably working on some fun Python scripts.
 
 # :computer: Operating systems: 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
