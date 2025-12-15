@@ -1,6 +1,6 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospaced&pause=1000&color=E3ECF7&vCenter=true&width=435&lines=Application+Support+%26+Software+Support;Learning+Python+%26+SQL" alt="Typing SVG" /></a></p> 
 
-<p align="center"> # :large_blue_circle: About me :large_blue_circle: </p>  
+# :large_blue_circle: About me: 
 👋 Hi there, I'm Dejan! Experienced in both dynamic startup environments, where effective communication, problem-solving, and adaptability are essential, and established corporate settings, spending over three years collaborating with multinational teams and maintaining high-quality support across multiple channels. 
 
 Operating systems 
@@ -8,7 +8,7 @@ Operating systems
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br><br>🧠 I'm always curious and constantly learning — whether it’s new tech or game mechanics. ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-# :large_blue_circle: Links :large_blue_circle:
+# :large_blue_circle: Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dejanjandric) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dejanjandric7@gmail.com) 
 
 # :large_blue_circle: Languages and Tools :large_blue_circle:
