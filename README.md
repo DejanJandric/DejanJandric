@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospaced&pause=1000&color=E3ECF7&center=true&width=435&lines=Application+Support+%26+Software+Support;Learning+Python+%26+SQL)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospaced&pause=1000&color=E3ECF7&vCenter=true&width=435&lines=Application+Support+%26+Software+Support;Learning+Python+%26+SQL" alt="Typing SVG" /></a>
 
 # 💫 About Me:
 👋 Hi there, I'm Dejan Jandric! Experienced in both dynamic startup environments, where effective communication, problem-solving, and adaptability are essential, and established corporate settings, spending over three years collaborating with multinational teams and maintaining high-quality support across multiple channels. 
