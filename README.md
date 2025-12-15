@@ -3,7 +3,7 @@
 # :raising_hand: About me: 
 Hi there, I'm Dejan! Experienced in both dynamic startup environments, where effective communication, problem-solving, and adaptability are essential, and established corporate settings, spending over three years collaborating with multinational teams and maintaining high-quality support across multiple channels. 
 
-:thinking: I'm always curious and constantly learning, whether it’s new tech or game mechanics. 
+:thinking: I'm always curious and constantly learning, whether it’s new tech or game mechanics. <br>
 :hammer_and_pick: When I’m not busy supporting applications, I’m probably working on some fun Python scripts.
 
 # :computer: Operating systems: 
