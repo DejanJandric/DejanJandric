@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospaced&pause=1000&color=E3ECF7&vCenter=true&width=435&lines=Application+Support+%26+SaaS;Learning+Python+%26+SQL" alt="Typing SVG" /></a> </p> 
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospaced&weight=600&size=30&pause=1000&color=E3ECF7&vCenter=true&width=435&lines=Application+Support+%26+SaaS;Learning+Python+%26+SQL" alt="Typing SVG" /></a> </p> 
 
 # :raising_hand: About me: 
 Hi there, I'm Dejan! Experienced in both dynamic startup environments, where effective communication, problem-solving, and adaptability are essential, and established corporate settings, spending over three years collaborating with multinational teams and maintaining high-quality support across multiple channels. 
